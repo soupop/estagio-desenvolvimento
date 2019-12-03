@@ -8,7 +8,7 @@ O teste consiste no desenvolvimento de uma única página, que deve exibir um fo
 Pode ser escrito em inglês ou português e você pode utilizar qualquer ferramenta que desejar, respeitando os requisitos e linguagens determinadas.
 
 ## Exemplo de página para exibir:
-
+```
   Teste de conexão com o banco de dados: Ok
   
   Digite sua mensagem: [            ]   [SALVAR]
@@ -21,7 +21,7 @@ Pode ser escrito em inglês ou português e você pode utilizar qualquer ferrame
   | 10/03/2010 | 2010-03-10 | Qua, 10 de Março de 2010 11:50    | Terceira mensagem |
 
   SQL: CREATE TABLE mensagens ......
-
+```
 ## Requisitos
 - Formulário
   - Deve conter um campo para o usuário digitar (mensagem) e botão para envio do formulário.
